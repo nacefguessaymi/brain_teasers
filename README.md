@@ -1,2 +1,3 @@
-# brain_teasers
-Answers to some brain teasers
+# Brain Teasers
+Answers to some brain teasers.
+
